@@ -1,4 +1,5 @@
-﻿namespace Water_Billing_and_Records.Models
+﻿
+namespace Water_Billing_and_Records.Models
 {
     public class Customer
     {

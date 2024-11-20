@@ -1,6 +1,6 @@
 ﻿namespace Water_Billing_and_Records
 {
-    {
+
     public class Customer
     {
         public int CustomerId { get; set; }

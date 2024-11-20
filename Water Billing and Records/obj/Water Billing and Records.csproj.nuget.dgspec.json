@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\source\\repos\\day-8\\Water Billing and Records\\Water Billing and Records\\Water Billing and Records.csproj": {}
+    "C:\\Users\\Acer\\source\\repos\\ravivarma29\\Water Billing and Records\\Water Billing and Records\\Water Billing and Records.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\source\\repos\\day-8\\Water Billing and Records\\Water Billing and Records\\Water Billing and Records.csproj": {
+    "C:\\Users\\Acer\\source\\repos\\ravivarma29\\Water Billing and Records\\Water Billing and Records\\Water Billing and Records.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\day-8\\Water Billing and Records\\Water Billing and Records\\Water Billing and Records.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\ravivarma29\\Water Billing and Records\\Water Billing and Records\\Water Billing and Records.csproj",
         "projectName": "Water Billing and Records",
-        "projectPath": "C:\\Users\\Acer\\source\\repos\\day-8\\Water Billing and Records\\Water Billing and Records\\Water Billing and Records.csproj",
+        "projectPath": "C:\\Users\\Acer\\source\\repos\\ravivarma29\\Water Billing and Records\\Water Billing and Records\\Water Billing and Records.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\source\\repos\\day-8\\Water Billing and Records\\Water Billing and Records\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\source\\repos\\ravivarma29\\Water Billing and Records\\Water Billing and Records\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"

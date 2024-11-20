@@ -1,0 +1,66 @@
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\Water Billing and Records.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\Water Billing and Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\Water Billing and Records.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\Water Billing and Records.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\Water Billing and Records.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\Water Billing and Records.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\Water Billing and Records.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\appsettings.json
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Water Billing and Records.exe
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Water Billing and Records.deps.json
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Water Billing and Records.runtimeconfig.json
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Water Billing and Records.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Water Billing and Records.pdb
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\staticwebassets\msbuild.Water Billing and Records.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\staticwebassets\msbuild.build.Water Billing and Records.props
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Water Billing and Records.props
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Water Billing and Records.props
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\scopedcss\bundle\Water Billing and Records.styles.css
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\Water Billing and Records.csproj.CopyComplete
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\Water Billing and Records.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\refint\Water Billing and Records.dll
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\Water Billing and Records.pdb
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\Water Billing and Records.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ravivarma29\Water Billing and Records\Water Billing and Records\obj\Debug\net6.0\ref\Water Billing and Records.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Water Billing and Records.props" />
+</Project>
